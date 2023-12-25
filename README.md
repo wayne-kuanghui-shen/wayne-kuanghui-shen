@@ -14,4 +14,4 @@
 
 <h2>📜 Examples of Work</h2>
 
-<img srn="" width="256 />
+<img srn="https://github.com/wayne-kuanghui-shen/wayne-kuanghui-shen/blob/main/cycle_pic.gif" width="256 />
