@@ -13,4 +13,4 @@
 - 123234345
 
 <h2>📜 Examples of Work</h2>
-<img src="https://github.com/wayne-kuanghui-shen/wayne-kuanghui-shen/blob/main/cycle_pic.gif" width="256 />
+<img src="https://github.com/wayne-kuanghui-shen/wayne-kuanghui-shen/blob/main/cycle_pic.gif" width="500" >
