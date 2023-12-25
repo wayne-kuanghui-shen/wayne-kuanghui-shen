@@ -1,3 +1,5 @@
+![Banner](https://github.com/wayne-kuanghui-shen/wayne-kuanghui-shen/blob/main/banner.png)
+
 <h2>👤 About Me </h2>
 
 - 🇹🇼 Taiwan -> US 🇺🇸
