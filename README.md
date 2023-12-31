@@ -1,6 +1,6 @@
 ![Banner](https://github.com/wayne-kuanghui-shen/wayne-kuanghui-shen/blob/main/file/banner.png)
 
-<h2>👤 About Me </h2>
+<h2>👤 Experience and Skills </h2>
 
 - 🇹🇼 Taiwan -> US 🇺🇸
 - 🎓 New York University
