@@ -16,4 +16,7 @@
 <h2>📜 Examples of Work</h2>
 
 <img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/four-cycles.png" width="400"> <img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/within-cycle-return.png" width="400">
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_fed_arima.var_modeling/blob/main/highlights/fed_change.png" width="400"> <img src="https://github.com/wayne-kuanghui-shen/python-spx_fed_arima.var_modeling/blob/main/highlights/arima.png" width="400">
+
+
 <img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/example_equity.png" width="400"> <img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/impluse_response.png" width="400">
