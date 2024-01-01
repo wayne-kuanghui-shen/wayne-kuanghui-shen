@@ -6,7 +6,7 @@
 - 💼 Macro Strategy, Asset Allocation
 - 🖥 Python, R, SQL, Bloomberg
 
-<h2>📂 Working Projects</h2>
+<h2>📂 Work Projects</h2>
 
 - <b>[Navigating the Economic Cycle for Optimal Asset Allocation](https://github.com/wayne-kuanghui-shen/python-cycle_adjusted_asset_allocation)</b>
 - <b>[Master Fund Selection System](https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/README.md)</b>
