@@ -3,8 +3,8 @@
 <h2>👤 Experience and Skills </h2>
 
 - 🎓 New York University
-- 💼 Macro Strategy, Asset Allocation
-- 🖥 Python, R, SQL, Excel VBA, Bloomberg
+- 💼 Macro Strategy, Asset Allocation and Quantitative Analysis
+- 🖥 Python, R, SQL, Excel VBA and Bloomberg
 
 <h2>📂 Work Projects</h2>
 
