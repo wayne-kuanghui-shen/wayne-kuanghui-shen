@@ -4,7 +4,7 @@
 
 - 🎓 New York University
 - 💼 Macro Strategy, Asset Allocation
-- 🖥 Python, R, SQL, Bloomberg
+- 🖥 Python, R, SQL, Excel VBA, Bloomberg
 
 <h2>📂 Work Projects</h2>
 
