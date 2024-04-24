@@ -8,6 +8,8 @@
 
 <h2>📂 Work Projects</h2>
 
+
+- <b>[Integrating Fundamentals and Technicals: A Multi-Strategy Approach to Dynamic Asset Allocation](https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/tree/main)</b>
 - <b>[Navigating the Economic Cycle for Optimal Asset Allocation](https://github.com/wayne-kuanghui-shen/python-cycle_adjusted_asset_allocation)</b>
 - <b>[Master Fund Selection System](https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/README.md)</b>
 - <b>[A Comprehensive Investigation on the Long-run and Short-run Determinants of U.S. Equity Market](https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling)</b>
